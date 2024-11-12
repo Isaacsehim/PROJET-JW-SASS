@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "AlfaSlabOne-Regular";
+  src: url("AlfaSlabOne-Regular.ttf") format("truetype");
+}
+h1 {
+  font-size: 3rem;
+  font-family: "AlfaSlabOne-Regular";
+  color: blue;
+  letter-spacing: 2px;
+}/*# sourceMappingURL=style.css.map */
