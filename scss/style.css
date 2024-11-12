@@ -7,4 +7,23 @@ h1 {
   font-family: "AlfaSlabOne-Regular";
   color: blue;
   letter-spacing: 2px;
+}
+
+body {
+  background-image: url("../img/fond.webp");
+}
+body .clear {
+  clear: both;
+}
+body > span {
+  text-align: center;
+  color: brown;
+}
+body #logo {
+  border: 1px solid blue;
+  display: inline;
+  width: 10rem;
+}
+body img {
+  width: 100%;
 }/*# sourceMappingURL=style.css.map */

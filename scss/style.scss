@@ -6,3 +6,31 @@ h1 {
 	color: blue;
 	letter-spacing: 2px;
 }
+
+body {
+background-image: url("../img/fond.webp");
+
+	
+	.clear {
+		clear: both;
+	}
+
+	> span {
+		text-align: center;
+		color: brown;
+	}
+
+	#logo {
+		border: 1px solid blue;
+		display: inline;
+		width: 10rem;
+	}
+	img {
+		width: 100%;
+		
+	}
+
+	#title-flex {
+
+	}
+}
